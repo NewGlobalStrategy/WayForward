@@ -1,11 +1,11 @@
 ﻿# What is the problem?
 I have provided some background on the issues and problems you need to solve to get a reasonable strategy for the world.  We have covered a good deal of ground, however we have not yet focussed much on exactly what the problems are. 
 
-Before starting let me re-iterate that there are massive problems here and they are getting relatively little focus, perhaps in part as you lack the vision to see what could be achieved with better alignment and cooperation. Everyone on your planet has a problem if they enjoy living as this will be a fairly transitory state unless they focus more on how to extend lifespans.  It seems now that dying of Covid-19 is a major global issue which justifies all sorts of questionable rules and regulations.  However dying of other things remains "just the way it is" and efforts to change this remain rather limited.
+Before starting let’s re-iterate that there are massive problems here and they are getting relatively little focus, perhaps in part as you lack the vision to see what could be achieved with better alignment and cooperation. Everyone on your planet has a problem if they enjoy living as this will be a fairly transitory state unless they focus more on how to extend lifespans.  It seems now that dying of Covid-19 is a major global issue which justifies all sorts of questionable rules and regulations.  However dying of other things remains "just the way it is" and efforts to change this remain rather limited.
 
-There is a strange perception among some people on your planet that they are winning and certainly the distribution of wealth is rather unequal and by this measure, there are a few clear winners while the vast majority are losers.  However, the winners are playing last century’s game and they have successfully demotivated and pissed off the majority with a toxic mix of entitlement and condescension.  This is a huge hindrance to progress on this century’s agenda of fixing poverty, disease and curing aging.
+There is a strange perception among some people on your planet that they are winning. Certainly the distribution of wealth is rather unequal and by this measure, there are a few clear winners while the vast majority are losers.  However, the winners are playing last century’s game and they have successfully demotivated and pissed off the majority with a toxic mix of entitlement and condescension.  This hinders progress on this century’s agenda of fixing poverty, disease and curing aging.
 
-The rules are set by the global elite, but they can only do this with the consent of the majority.  That majority needs to move the consensus along a bit and perhaps redefine winning as living for a thousand years.  One of your leading bio-gerontologists has suggested that the first thousand-year-old person is already alive and among you – however, even comments like this generate very limited traction and focus.  
+The rules are set by the global elite, but they can only do this with the consent of the majority.  That majority needs to move the consensus along a bit and perhaps redefine winning as living well for a thousand years.  One of your leading bio-gerontologists has suggested that the first thousand-year-old person is already alive and among you – however, even comments like this generate very limited traction and focus.  
 
 There is a fear and reluctance to move forward based on a strange perception that the planet is approaching capacity.  We expect that with improved behavior the capacity of this planet is much closer to eighty billion people than 8 billion – reaching that capacity will require that many of you stop running around like blue-arsed flies and overindulging.
 
@@ -19,7 +19,7 @@ We have visited other planets and I can confirm to you that this planet is serio
 6	%age  of  people  over-consuming
 7	Number of refugees
 
-The problem may lie in one or more of the following areas which we will look at:
+The problem may lie in one or more of the following areas:
 1	Irrationality
 2	Relativity
 3	Hierarchy & motivations of leaders and their followers
@@ -33,19 +33,19 @@ The problem may lie in one or more of the following areas which we will look at:
 
 ### Irrationality
 
-Human beings, in general, are innately irrational (13) and while this has been documented it is not widely accepted.  Problems not accepted are not readily dealt with.  Careful analysis rather than instinctive judgment has been identified as one technique to reduce irrational decisions.  A significant proportion of people on the planet still have faith and indeed the vast majority of your political leaders claim to be religious.  We find this somewhat surprising.  While we can rationalize that some of them are just doing this to appear more acceptable and to help their election bids there do appear to be some that are genuinely deluded enough to think that their actions are likely to be judged favorably and provide them with a hero’s reception in the afterlife.
+Human beings, in general, are innately irrational (13) and while this is documented it is not widely accepted.  Problems not accepted are not readily addressed.  Careful analysis rather than instinctive judgment has been identified as one technique to reduce irrational decisions.  A significant proportion of people on the planet still have faith and indeed the vast majority of your political leaders claim to be religious.  We find this somewhat surprising.  While we can rationalize that some of them are just doing this to appear more acceptable and to help their election bids there do appear to be some that are genuinely deluded enough to think that their actions are likely to be judged favorably and provide them with a hero’s reception in the afterlife.
 
-We have reviewed the actions and achievements of the typical political leader and many of the recent ones appear to have started foreign wars, authorized murders, increased the numbers of people living in poverty and protected the wealthy and the bankers from inevitable losses that arise at the end of a borrowing binge.  These actions are completely at odds with religious teachings and consequently, they must be delusional if they think they are.
+We have reviewed the actions and achievements of the typical political leader and many of the recent ones appear to have started foreign wars, authorized murders, increased the numbers of people living in poverty and protected the wealthy and bankers from inevitable losses that arise at the end of a borrowing binge.  These actions are completely at odds with religious teachings, but unsurprising if you follow the money and see how politics is funded.
 
-Many leaders have also promised many things they are incapable of delivering without over-spending and out-competing other leaders.  Economists stay employed by telling their employers what they want to hear and so short term Keynesian deficit spending has become a near-permanent distortion.  The laws of mathematics will bring this to an end in the not too distant future.
+Many leaders have promised things they are incapable of delivering without over-spending and out-competing other leaders.  Economists stay employed by telling their masters what they want to hear and so short term Keynesian deficit spending has become a near-permanent distortion.  The laws of mathematics will bring this to an end in the not too distant future.
 
-In practice, your politicians don’t have as much power as they claim to have.  Arguably most people who want to be in power are also unsuitable to be leaders – hence the need to change the approach.  It is a major problem that there are so many people pretending to be in charge of running your world but in reality, there is nobody in charge and this is a highly inefficient arrangement.
+In practice, your politicians don’t have as much power as they claim to have.  Arguably most people who want to be in power are also unsuitable to be leaders – hence the need to change the approach.  It is a major problem that there are so many people pretending to be in charge of running your world but in reality, nobody is in charge and this is a highly inefficient arrangement.
 
 You have this dysfunctional partnership between politics and economics that massively underachieves for the majority of people.  We would propose some new ideas for both legs of the partnership.
 
-A great deal of economics is based on the premise of rational economic maximizing man.   This made some sense at the time of Adam Smith and probably continued to have a degree of relevance throughout the last millennium.  Arguably however it has now morphed into an oxymoron.  Given the advances you are making in medical science and the further potential for progress, it seems to us that anybody who sets out to die wealthy lacks ambition.
+A great deal of economics is based on the premise of rational economic maximizing man.  This made some sense at the time of Adam Smith and probably continued to have a degree of relevance throughout the last century.  Arguably however it has now morphed into an oxymoron.  Given the advances you are making in medical science and the further potential for progress, it seems to us that anybody who sets out to die wealthy lacks ambition.
 
-As for politicians, it has been said that people treat them like diapers and so they are changed frequently and for similar reasons.  Technology now appears to allow civilization to mature. You will still look for politicians to campaign, entertain and promote solutions to the issues of the day but you will no longer depend on them for decision making.  This is beneficial as they have frequently proved to be an expensive, unreliable and disappointing solution to problems.
+As for politicians, it has been said that people treat them like diapers with frequent changes in both for similar reasons.  Technology now appears to allow civilization to mature. You will still look for politicians to campaign, entertain and promote solutions to the issues of the day but you will no longer depend on them for decision making.  This is beneficial as they have frequently proved to be an expensive, unreliable and disappointing solution to problems.
 
 ### Relativity
 
@@ -55,17 +55,17 @@ Indeed we suspect that some of you would be happy living in a shit shower for 23
 
 ### Hierarchy
 
-The establishment of a hierarchy within all human endeavors is a problem.  Your typical working arrangements de-motivate the majority for most of the time.  This is important because so many people are not engaged in their working activities. The few that are leading and focussed are typically either operating in capitalist ventures or carrying out fairly short term focussed Government activities.  
+The establishment of a hierarchy within all human endeavors is a problem.  Your typical working arrangements de-motivate most of the people most of the time.  This is important because so many people are not engaged in their working activities. The few that are leading and focussed are typically either operating in capitalist ventures or carrying out fairly short term focussed Government activities.  
 
-You have to some extent tried both socialism and capitalism and while neither of these systems has been implemented in any sort of pure form without considerable ‘cronyism’ you have identified that both systems have significant challenges.  The way forward definitely requires improved linking of performance and benefits for all individuals with agreed performance standards being established for different tasks.
+You have to an extent tried both socialism and capitalism and while neither of these systems has been implemented in any sort of pure form without considerable ‘cronyism’ you have identified that both systems have significant challenges.  The way forward definitely requires improved linking of performance and benefits for all individuals with agreed performance standards being established for different tasks.
 
 ### Market Failure
 
 Neither hierarchy nor irrationality appears sufficient to explain the lack of focus on this planet.  Perhaps it is a genuine case of market failure for long-term and uncertain projects that is the problem.  Controlling, managing and ideally stopping the aging process for all will be a very difficult task and it will probably take a long time to complete.  However, a great deal of change and progress can happen in 50 years.  If you had asked people in 1919 if they thought it was possible for man to travel to the moon 50 years later there would have been few that expected this to happen.  As we have also highlighted the global population is much greater now so the potential talent pool to work on projects has never been greater.  
 
-Currently, a great deal of this talent appears to be focussed on really rather stupid financial games in which it will probably never be entirely clear whether the cleverest or the luckiest will record the financial gains.  The failure rate of human life has always been 100% and it seems reasonable to think that the more effort is focussed on reducing this rate the quicker it will start to fall.  
+Currently, a great deal of this talent appears to be focussed on really rather stupid financial games in which it will probably never be entirely clear whether the cleverest or the luckiest will record the gains at others expense.  The failure rate of human life has always been 100% and it seems reasonable to think that the more effort is focussed on reducing this the quicker it will start to fall.  
 
-There is currently no obvious way to make an investment in gerontology research and have any real expectation that you will get the return on investment that you are looking for.  As your species is presently so financially focussed you end up with significant levels of unemployment combined with serious problems with healthcare and aging that are not being addressed.  So there is a problem here that your present markets and organizations are not capable of dealing with.
+There is currently no obvious way to make an investment in gerontology research and have any real expectation that you will get the return on investment that you are looking for.  As your species is presently so financially focussed you end up with significant levels of unemployment combined with serious problems with healthcare and aging that are not being addressed.  So there is a problem here that your present markets and organizations are not dealing with.
 
 ### Lack of Vision and inspiration
 
@@ -91,7 +91,7 @@ These methods of group decision making simply cannot support an aligned global e
 
 ### General acceptance of poor standards of behavior
 
-There is very little discussion on your planet at present on whether or not present standards of behavior are acceptable.  It seems questionable if the planet will ever achieve its potential while wealth is so concentrated and with some people having wealth in the billions while others are dying of starvation.  Some sort of dialogue on the acceptability of this behavior could be called for and a plan put in place to address the imbalances.  Discussions along the line of “Your yacht may be too large Mr. Abramovich” are simply not taking place.
+There is very little discussion on your planet on whether or not present standards of behavior are acceptable.  It seems questionable if the planet will ever achieve its potential while wealth is so concentrated and with some people having wealth in the billions while others are dying of starvation.  Some sort of dialogue on the acceptability of this behavior could be called for and a plan put in place to address the imbalances.  Discussions along the line of “Your yacht may be too large Mr. Abramovich” are simply not taking place, though at least for other reasons European cruising by ‘self-made’ Russian oligarchs is now largely on hold.
 
 ## Apathy
 
