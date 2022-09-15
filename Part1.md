@@ -2,20 +2,20 @@
 
 "Start where you are. Use what you have. Do what you can." [Arthur Ashe]
 
-2020 was a year like no other.  Attire previously reserved for surgeons and bank robbers became de rigeur for most of the planet.  Yet even this degree of upheaval still produced a choice between two unsuitable old white men with to 'lead' the USA.  "Plus ca change plus la meme chose" and we really do need to change.
+2020 was a year like no other.  Attire previously reserved for surgeons and bank robbers became de rigeur for most of the planet.  Yet even this degree of upheaval still produced a choice between two unsuitable old white men to 'lead' the USA.  "Plus ca change plus la meme chose" and we really do need to change.
 
 ## Global Service Standards
 More advanced planets have agreed on service standards that apply throughout.  Natural disasters sometimes derail the plan but in normal times there are global standards for availability of the following items:
 
-1	Fresh Drinking Water
-2	Food
-3	Shelter if the local conditions make this necessary
-4	Basic Healthcare
-5	Reliable Utility Supplies 
-6	Entertainment facilities
-7	Advanced Healthcare
-8	Rejuvenation
-9	Rewards and benefits
+1. Fresh Drinking Water
+2. Food
+3. Shelter if the local conditions make this necessary
+4. Basic Healthcare
+5. Reliable Utility Supplies 
+6. Entertainment facilities
+7. Advanced Healthcare
+8. Rejuvenation
+9. Rewards and benefits
 
 Items one to three are classed as needs and the rest are wants.  We try to ensure all needs are met and we use the time and resources left over after that to address wants.  All citizens have an expectation to have their needs met at all times and we focus our energies and planning systems very quickly on areas or situations where that isn’t happening.  Achieving level 6 is a great milestone as then you have the main global service standards and acceptable ways of living for all.  
 
