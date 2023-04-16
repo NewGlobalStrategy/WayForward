@@ -2,7 +2,7 @@
 
 A planet-wide networked decision-making system is something that has proved useful on more advanced planets to help establish what individuals and societies want.  It supports empowerment, education and problem solving and avoids top-heavy hierarchies that encourage entitlement.  The best version is still unclear but some key principles are established and like most software it will evolve during development and use.  You already have grid computing to leverage the limited power of independent computers into much more powerful and resilient platforms.  Applying the same concept to individuals shouldn’t be too difficult if there is a desire and commitment for change.
 
-To consider this fully you need to be open to new ideas.  Many leaders on your planet presume a good idea that’s not their idea is an oxymoron.  While this is partly nature, people need to accept your world is changing fast and this creates new possibilities.
+To consider this fully you need to be open to new ideas.  Many leaders on your planet presume a good idea that’s not their idea is an oxymoron.  While this is partly nature, people need to accept your world is changing fast and this creates new possibilities that may not have been possible in the past.
 
 Communication took a major step forward with the internet, email and the world-wide-web.  The key advantage they have over the telephone is that people can access these channels whenever they like.  They are highly scalable and asynchronous.  To date, no similar evolution has taken place in human decision making.  The opportunity here is potentially much greater.
 
@@ -14,7 +14,7 @@ It is an unhealthy and nefarious co-dependency which robs the many to support th
 
 We quite like a genuinely free market for short term allocation of goods and services – however, it struggles with longer-term projects and it has in general been replaced by more automated planning systems and accepted behaviour standards on the more advanced planets.  Remember everyone including your leaders are trying to do what they think is best for them – it’s just that the overall result is something of a disaster due to following a bad process.  In many areas there is more voting and engagement in Saturday night talent shows than in local and global planning.
 
-In general, individual decision making is a bad thing as it is rather error prone.  We have found it to be much more effective to require groups of 3 or 5 people to make decisions.  The suggested minimum number of people to resolve a straight choice is 3 independent people and for more complex decisions (those with more than two options) 5 people can also be a good number.
+In general, individual decision making is a bad thing as it is rather error prone.  We have found it to be much more effective to require groups of 3 or 5 people to make decisions.  The suggested minimum number of people to resolve a straight choice is 3 independent people and for more complex decisions (those with more than two options) 5 people can also be a good number.  AI models now appear to have potential to enhance decision making and highlight potential ‘groupthink’ errors for further analysis.
 
 Individual decision making on important issues is strongly discouraged and is very much a last resort when no-one else is around.  For all decisions, three or five or more people should reach a group consensus by discussion and WITHOUT any hierarchical structure being present within the group.  Basically, before making any decision you typically need to ask two questions:
 1	Is it fair?
