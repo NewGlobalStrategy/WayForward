@@ -1,0 +1,25 @@
+[[extend 'layout.html']]
+
+<h4>Table of Contents</h4>
+<ul id="toc-listd">
+  [[if 2==1:]]
+[[for key,item,slug in chapters:]]
+[[=LI(A("%s %s" % (key,item),_href=URL(f="chapter", args=(book_id,key,slug))))]]
+[[pass]]
+</ul>
+
+[[#if request.function=='chapter':]]
+<h4><a id="chapter-toc-toggle" href="#">Chapter [[=chapter_id]]: [[=chapter_title]]</a></h4>
+[[#pass]]
+
+[[pass]]
+<div class="article">
+  [[#content]]
+</div>
+
+<a id="gototop_btn" href="#header"><i class="icon-arrow-up"></i><em>&nbsp;top</em></a>
+
+
+
+
+
