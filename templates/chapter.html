@@ -1,9 +1,8 @@
-[[extend 'layout.html']]
+[[extend 'layoutbs.html']]
 
 <h1>[[=title]]</h1>
 <h4>Table of Contents</h4>
 <ul id="toc-listd">
-
 [[for key,item,slug in chapters[1]:]]
 [[=LI(A("%s %s" % (key,item),_href=URL("chapter",book_id,key)))]]
 [[pass]]
@@ -16,17 +15,10 @@
 [[#pass]]
 
 [[pass]]
-<div class="chapter">
-  Content
-  [[=chapters]]
-</div>
 
 <div class="article">
-  Content
   [[=content]]
 </div>
-
-<a id="gototop_btn" href="#header"><i class="icon-arrow-up"></i><em>&nbsp;top</em></a>
 
 
 
