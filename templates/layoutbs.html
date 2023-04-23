@@ -4,11 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="[[=URL('static')]]/">
     <!--link rel="stylesheet" href="css/no.css"-->
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
-    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/jquery.js"></script>
-   <script src="https://unpkg.com/htmx.org@1.5.0"></script>
 
     <style>.py4web-validation-error{margin-top:-16px; font-size:0.8em;color:red}</style>
     [[block page_head]]<!-- individual pages can customize header here -->[[end]]
@@ -41,15 +38,8 @@
   
   <!-- You've gotta have utils.js -->
   <script src="js/utils.js"></script>
-  <script src="js/axios.min.js"></script>
-  <script src="js/vue.min.js"></script>
   <script src="js/sugar.min.js"></script>
-  <script src="js/bootstrap.js"></script>
-
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  [[if load_graph:]]
-    <script src="js/graphd3v4.js"></script>
-  [[pass]]
+  <script src="js/bootstrap.min.js"></script>
 
     [[if globals().get('flash'):]]
 <script>Q.flash([[=XML(flash)]]);</script>
