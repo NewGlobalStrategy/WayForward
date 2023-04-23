@@ -1,5 +1,6 @@
 [[extend 'layout.html']]
 
+<h1>[[=title]]</h1>
 <h4>Table of Contents</h4>
 <ul id="toc-listd">
   [[if 2==1:]]
@@ -7,6 +8,8 @@
 [[=LI(A("%s %s" % (key,item),_href=URL(f="chapter", args=(book_id,key,slug))))]]
 [[pass]]
 </ul>
+
+
 
 [[#if request.function=='chapter':]]
 <h4><a id="chapter-toc-toggle" href="#">Chapter [[=chapter_id]]: [[=chapter_title]]</a></h4>
