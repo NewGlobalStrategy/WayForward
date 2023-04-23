@@ -3,19 +3,24 @@
 <h1>[[=title]]</h1>
 <h4>Table of Contents</h4>
 <ul id="toc-listd">
-  [[if 2==1:]]
-[[for key,item,slug in chapters:]]
-[[=LI(A("%s %s" % (key,item),_href=URL(f="chapter", args=(book_id,key,slug))))]]
+
+[[for key,item,slug in chapters[1]:]]
+[[=LI(A("%s %s" % (key,item),_href=URL("chapter",book_id,key)))]]
 [[pass]]
 </ul>
 
 
-
+  [[if 2==1:]]
 [[#if request.function=='chapter':]]
 <h4><a id="chapter-toc-toggle" href="#">Chapter [[=chapter_id]]: [[=chapter_title]]</a></h4>
 [[#pass]]
 
 [[pass]]
+<div class="chapter">
+  Content
+  [[=chapters]]
+</div>
+
 <div class="article">
   Content
   [[=content]]
