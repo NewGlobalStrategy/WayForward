@@ -139,7 +139,7 @@ def calc_date(now=datetime.datetime.utcnow()):
 @action("chapter/<book_id>", method=['GET', 'POST'])
 @action("chapter/<book_id>/<chapter_id>", method=['GET', 'POST'])
 @action.uses("chapter.html")
-def chapter(book_id=None, chapter_id=1):
+def chapter(book_id=None, chapter_id="1"):
     chapter_id = int(chapter_id) if chapter_id and chapter_id.isnumeric() else 1
     subfolder = get_subfolder(book_id)
     #info = cache.ram('info_%s' % subfolder, lambda: get_info(subfolder), time_expire=TIME_EXPIRE)
