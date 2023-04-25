@@ -4,6 +4,7 @@
 [[book = value[1] ]]
 [[id=key.split('-')[0] ]]
 
+[[if book:]]
 <h2>[[=A(book['title'],_href=URL('chapter',id))]]
     /  [[=book['language'] ]] </h2>
 <table>
@@ -15,7 +16,5 @@
   </tr>
 </table>
 [[pass]]
-
-
-
+[[pass]]
 
