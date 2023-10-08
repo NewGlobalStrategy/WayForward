@@ -1,0 +1,14 @@
+subtitle: The Way Forward
+abstract: A think outside the planet view on where we may have strayed off course
+created_on: 2022-12-01
+isbn: tdb
+url_print:
+url_pdf:
+title: New Global Strategy
+version: 1.0
+publicly_readable: True
+authors: Russ King
+modified_on: 2023-01-05 13:00:00
+publication_date
+language: English
+cover_image: None
