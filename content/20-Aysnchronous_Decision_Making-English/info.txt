@@ -1,0 +1,14 @@
+subtitle: How and Why Asynchronous Decision Making was Adopted
+abstract: Decision Making Not Fit for 21st Century Living
+created_on: 2024-01-01
+isbn: tdb
+url_print:
+url_pdf:
+title: Asynchronous Decision Making
+version: 1.0
+publicly_readable: True
+authors: Russ King
+modified_on: 2024-02-17 13:00:00
+publication_date
+language: English
+cover_image: None

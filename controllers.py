@@ -42,8 +42,7 @@ FORCE_RENDER = True
 def get_folders(dummy=None):
     folder = os.path.join(APP_FOLDER, 'content')
     print(folder)
-    return folder, [f for f in os.listdir(folder)
-                    if os.path.isdir(os.path.join(folder, f))]
+    return folder, [f for f in os.listdir(folder) if os.path.isdir(os.path.join(folder, f))]
 
 
 FOLDER, FOLDERS = get_folders()
