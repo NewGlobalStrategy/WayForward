@@ -1,0 +1,14 @@
+subtitle: How and Why Asynchronous Decision Making was Adopted
+abstract: This book starts with a couple of allegorical tales representing recent events which are highly concerning in terms of human progress.  These are hopefully simple enough to grasp and also to identify the real events which they represent.  From this we explore and analyze the challenges of moving forward with large scale empowerment and realism that we are living on a shared planet and attempting to out-compete other countries or cultures that actually need and want very similar things is unlikely to be the best route forward.
+created_on: 2024-01-01
+isbn: tdb
+url_print:
+url_pdf:
+title: Asynchronous Decision Making
+version: 1.0
+publicly_readable: True
+authors: Russ King
+modified_on: 2024-02-17 13:00:00
+publication_date
+language: English
+cover_image: None

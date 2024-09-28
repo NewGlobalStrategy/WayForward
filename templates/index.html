@@ -1,13 +1,12 @@
 [[extend 'layoutbs.html']]
-
+<p>This is a collection of writings that explain where we are and how we might be able to move forward along some better paths.  The key belief is that we can revolutionise progress by moving most group decisions to an asynchronous model over the relatively short term.  Technology has allowed communications to largely adopt that model but the controlling nature of most 'successful' humans means that a similar revolution in group decision making remans in the future.</p>
 [[for key, value in books.items():]]
 [[book = value[1] ]]
 [[id=key.split('-')[0] ]]
 
 [[if book:]]
-<h2>[[=A(book['title'],_href=URL('chapter',id))]]
-    /  [[=book['language'] ]] </h2>
-<table>
+<h2>[[=A(book['title'],_href=URL('chapter',id))]] </h2>
+<table class='table issuetable2 table-bordered border-info'>
   <tr>
     <th>Authors:</th><td>[[=book['authors'] ]]</td>
   </tr>
