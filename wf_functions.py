@@ -3,7 +3,6 @@
 
 from pydal._compat import to_native, to_bytes, to_unicode
 from pydal.validators import *
-from markmin import markmin2html
 from py4web import URL
 from yatl.helpers import DIV, XML, CAT
 
@@ -91,7 +90,7 @@ class MARKMIN(XmlComponent):
         return self.text
 
     def xml(self):
-        from markmin.markmin2html import render
+        from .markmin.markmin2html import render
         html = render(self.text, extra=self.extra,
                       allowed=self.allowed, sep=self.sep, latex=self.latex,
                       URL=self.url, environment=self.environment,
