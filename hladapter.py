@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from markmin.markmin2html import make_dict
+from .markmin.markmin2html import make_dict
 from yatl.helpers import PRE
 from pydal._compat import to_native, to_bytes, to_unicode
 
